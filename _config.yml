@@ -2,12 +2,12 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://yoursite.com
-title: My Octopress Blog
+url: http://leep219.github.com
+title: Leep Blog
 subtitle: A blogging framework for hackers.
-author: Your Name
+author: Leep
 simple_search: http://google.com/search
-description:
+description:记录学习历程，见证我的成长
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
@@ -19,14 +19,14 @@ date_format: "ordinal"
 subscribe_rss: /atom.xml
 subscribe_email:
 # RSS feeds can list your email address if you like
-email:
+email:leep219@gmail.com
 
 # ----------------------- #
 #    Jekyll & Plugins     #
 # ----------------------- #
 
 # If publishing to a subdirectory as in http://site.com/project set 'root: /project'
-root: /
+root: /leepBlock
 permalink: /blog/:year/:month/:day/:title/
 source: source
 destination: public
