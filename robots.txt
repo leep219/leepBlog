@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://leep219.github.com/leepBlog/sitemap.xml 
