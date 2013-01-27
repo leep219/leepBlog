@@ -4,7 +4,7 @@
   <title><![CDATA[Leep Blog]]></title>
   <link href="http://leep219.github.com/leepBlog/atom.xml" rel="self"/>
   <link href="http://leep219.github.com/leepBlog/"/>
-  <updated>2013-01-27T07:20:55-05:00</updated>
+  <updated>2013-01-27T07:32:38-05:00</updated>
   <id>http://leep219.github.com/leepBlog/</id>
   <author>
     <name><![CDATA[Leep]]></name>
@@ -18,7 +18,7 @@
     <link href="http://leep219.github.com/leepBlog/blog/2013/01/27/testpage/"/>
     <updated>2013-01-27T04:52:00-05:00</updated>
     <id>http://leep219.github.com/leepBlog/blog/2013/01/27/testpage</id>
-    <content type="html"><![CDATA[<p>这是我的blog测试页面</p>
+    <content type="html"><![CDATA[<p>这是我的blog测试页面,增加评论</p>
 ]]></content>
   </entry>
   
